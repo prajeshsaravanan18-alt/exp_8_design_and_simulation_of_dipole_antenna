@@ -111,7 +111,8 @@ The antenna is usually fed at the centre gap using a **lumped port** or a **wave
 ---
 
 ## Observations
-
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-07 at 13 33 42 (1)" src="https://github.com/user-attachments/assets/73b9755a-d8ed-432a-ac8c-89bed092f4df" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-07 at 13 33 42 (2)" src="https://github.com/user-attachments/assets/8721fe6b-e260-4abd-a979-0611c371f488" />
 ### Table 1: Simulated S-Parameter and VSWR Response across Frequency Band
 
 | Frequency (GHz) | Return Loss $S_{11}$ (dB) | VSWR | Input Impedance $Z_{\text{in}}\ (\Omega)$ | Performance Status |
@@ -164,6 +165,18 @@ $$\text{BW}_{\%} = \left( \frac{f_2 - f_1}{f_0} \right) \times 100\% = \left( \f
 $$G_0 = \eta_{\text{rad}} \times D_0 = 0.986 \times 10^{\frac{2.14}{10}} = 0.986 \times 1.637 = 1.614 \implies 10 \log_{10}(1.614) \approx \mathbf{2.11\text{ dBi}}$$
 
 ---
+* S11 vs frequency
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-07 at 13 33 42" src="https://github.com/user-attachments/assets/940d2d45-9ab9-4e6f-82fb-d1caae76885d" />
+
+
+* VSWR vs frequency
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-07 at 13 33 42 (4)" src="https://github.com/user-attachments/assets/c0ea32ae-add0-4925-8fb1-fede51a7cdbd" />
+
+* 2-D E-plane and H-plane radiation patterns
+
+
+<img width="1623" height="666" alt="Screenshot 2026-09-13 093541" src="https://github.com/user-attachments/assets/a5e1f18e-996a-47b7-bcef-11dd12605305" />
+
 
 ## Result
 
